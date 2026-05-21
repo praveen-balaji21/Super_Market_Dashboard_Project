@@ -25,6 +25,14 @@ Dashboard Features
 - Filters & Slicers
 - Interactive Visualizations
 
+Project Workflow
+1. Imported supermarket sales dataset into MySQL
+2. Connected MySQL database with Power BI
+3. Performed data cleaning using Power Query
+4. Created KPIs and DAX measures
+5. Built interactive dashboard visualizations
+6. Generated business insights from sales data
+
 
 Datasets
 - Branch
